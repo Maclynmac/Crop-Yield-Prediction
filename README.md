@@ -9,6 +9,6 @@
 <li>Model Training & Evaluation: Demonstrates methods to train the predictive model and assess its performance with metrics like RMSE and R².</li>
 <li>Hyperparameter Tuning: Shows the process of optimizing model parameters (e.g., tree depth, learning rate) to improve accuracy.</li>
 <li>Deployment Workflow: Provides an overview of transforming the model into a production-ready system, including integration into decision-making pipelines.</li>
-<li></li>Use Case & Impact: Outlines how crop yield prediction tools help farmers plan planting schedules, optimize resource use, and anticipate output for better decision-making.</li>
+<li>Use Case & Impact: Outlines how crop yield prediction tools help farmers plan planting schedules, optimize resource use, and anticipate output for better decision-making.</li>
 </ul>
 
