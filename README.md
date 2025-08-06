@@ -21,8 +21,8 @@
 <strong>Technologies Used:</strong>
 
 <ul>
-<li>Machine Learning & Data Processing: Algorithms such as regression, decision trees, random forests to predict crop yields.</li>
-<li>Programming & Frameworks :Likely Python and libraries like scikit-learn for model building.</li>
+<li>Machine Learning & Data Processing: Algorithms such as regression, decision trees, XGBoost, Random Forest, Bagging Regressor to predict crop yields.</li>
+<li>Programming & Frameworks :Likely Python and libraries like Python, Pandas, Matplotlib, NumPy,Scikit-learn,for model building.</li>
 <li>Data manipulation tools like pandas and NumPy, as well as visualization tools like Matplotlib or Seaborn.</li>
 <li>Jupyter Notebook – for running and demonstrating code</li>
 </ul>
