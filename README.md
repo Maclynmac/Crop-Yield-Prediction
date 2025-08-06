@@ -5,7 +5,7 @@
 <ul>  
 <li>Machine Learning Model Selection: Introduces different algorithms often used for predicting crop yields—such as regression, random forest, and neural networks.</li>
 <li>Feature Engineering for Agriculture: Explains how to derive meaningful features from data sources like weather patterns, soil quality, irrigation, and historical yields.</li>
-<li></li>Data Preprocessing: Covers cleaning data, normalization, handling missing values, and splitting datasets for training and testing.</li>
+<li>Data Preprocessing: Covers cleaning data, normalization, handling missing values, and splitting datasets for training and testing.</li>
 <li></li>Model Training & Evaluation: Demonstrates methods to train the predictive model and assess its performance with metrics like RMSE and R².</li>
 <li>Hyperparameter Tuning: Shows the process of optimizing model parameters (e.g., tree depth, learning rate) to improve accuracy.</li>
 <li>Deployment Workflow: Provides an overview of transforming the model into a production-ready system, including integration into decision-making pipelines.</li>
